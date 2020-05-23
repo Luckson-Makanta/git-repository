@@ -35,7 +35,7 @@ li{
 		 	<div class="select">
 		 		<li><a href="about.php">About Makzedcodes</a></li>
 		 		<li><a href="form.html">Add to the database</a></li>
-		 		<li><a href="#">Search from the database</a></li>
+		 		<li><a href="search.php">Search from the database</a></li>
 		 	</div>
  	<br><br>
  <?php include('footer.html') ?>
