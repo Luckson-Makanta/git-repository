@@ -23,10 +23,15 @@
  			width: 300px;
  			height: 30px;
  		}
+ 		button{
+ 			border-radius: 10px;
+ 			color: black;
+ 		}
  	</style>
  </head>
  <body>
 		 <div class="form">
+		 	<button><a href="index.php"></a> Back</button>
 		 	<form action="<?php echo $_SERVER['PHP_SELF'] ?>" method="POST">
 		 		<label>Enter the email</label>
 		 		<input type="text" name="mail" autocomplete="off">
